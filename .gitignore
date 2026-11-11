@@ -1,0 +1,5 @@
+#ignore javascript
+server.js
+
+#ignore images folder
+images/
